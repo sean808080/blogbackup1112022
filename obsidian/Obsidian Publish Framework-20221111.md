@@ -5,4 +5,4 @@ tag: obsidian
 ---
 # Obsidian Publish Framework
 
-![Paper.Journal.1.jpeg](../images/obsidian/Paper.Journal.1.jpeg.md)
+![PaperJournal1.jpeg](../images/obsidian/PaperJournal1.jpeg.md)
