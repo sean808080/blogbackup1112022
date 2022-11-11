@@ -1,6 +1,7 @@
 ---
 share: TRUE
 title: "Obsidian Publish Framework"
+tag: obsidian
 ---
 # Obsidian Publish Framework
 
