@@ -1,7 +1,13 @@
 ---
-share: TRUE
-title: "Ella Fitzgerald"
+share: true
+title: Ella Fitzgerald
+tags:
+  - writing
+  - randomMemory
+  - person
+  - artist
 ---
+
 ---
 up:: [Writing MOC](Writing%20MOC)
 tags::  #writing #randomMemory #person #artist 
