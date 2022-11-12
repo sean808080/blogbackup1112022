@@ -1,6 +1,4 @@
 ---
-banner: "https://www.readersdigest.co.uk/media/ella-web-image.jpg"
-banner_y: 0.544
 share: TRUE
 title: "Ella Fitzgerald"
 ---
@@ -9,6 +7,7 @@ up:: [Writing MOC](Writing%20MOC)
 tags::  #writing #randomMemory #person #artist 
 dates:: 1917-1996 
 
+![ella-web-image.jpg](../images/obsidian/ella-web-image.jpg)
 # Ella Fitzgerald
 
 ### What was the most memorable thing about this person?
