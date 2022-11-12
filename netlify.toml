@@ -1,7 +1,3 @@
----
-share: TRUE
-title: "netlify.toml"
----
 [build]
 command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
@@ -17,7 +13,7 @@ LANDING_PAGE = "home"
 LANDING_TITLE = "obsidian-minded! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/sean808080/blog"
+REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
 # (Optional) Site title in navbar
 SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
