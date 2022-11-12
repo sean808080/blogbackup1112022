@@ -1,7 +1,14 @@
 ---
-share: TRUE
-title: "Tennessee Williams"
+share: true
+title: Tennessee Williams
+tags:
+  - quote
+  - wisdom
+  - creativity
+  - blog
+  - TennesseeWilliams
 ---
+
 
 up:: [Writing MOC](Writing%20MOC)
 tag:: #quote #wisdom #creativity #blog 

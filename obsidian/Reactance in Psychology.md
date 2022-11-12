@@ -1,7 +1,12 @@
 ---
-share: TRUE
-title: "Reactance in Psychology"
+share: true
+title: Reactance in Psychology
+tags:
+  - psychology
+  - happiness
+  - definition
 ---
+
 up:: [Health MOC](Health%20MOC.md)
 tags:: #psychology #happiness #definition
 

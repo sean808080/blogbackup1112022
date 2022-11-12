@@ -1,7 +1,11 @@
 ---
-share: TRUE
-title: "Democracy Rankings"
+share: true
+title: Democracy Rankings
+tags:
+  - government
+  - politics
 ---
+
 
 up::
 tags:: #government #politics
